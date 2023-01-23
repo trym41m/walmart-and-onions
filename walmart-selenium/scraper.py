@@ -48,6 +48,9 @@ class GenericPriceScraper(object):
 
 		"""
 		First Method
+
+		These methods come from these geniuses, or grifters ... you decide
+		https://stackoverflow.com/questions/68636955/how-to-long-press-press-and-hold-mouse-left-key-using-only-selenium-in-python
 		"""
 
 		# element = driver.find_element(By.CSS_SELECTOR, "#px-captcha")
